@@ -1,1 +1,1 @@
-# QR-generator
+https://dasanuradha.github.io/QR-generator/
